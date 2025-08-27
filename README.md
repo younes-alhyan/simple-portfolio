@@ -12,7 +12,7 @@ Your personal portfolio project to practice building clean HTML, CSS, and JS lay
 
 ## 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/flex-boxfontsicons-LZ1nDjGXrf) 
+[Solution Link](https://www.frontendmentor.io/solutions/flex-boxfontsicons-LZ1nDjGXrf)
 
 ## 🚀 Live Demo
 
@@ -21,6 +21,11 @@ Your personal portfolio project to practice building clean HTML, CSS, and JS lay
 ## 🔎 More
 
 [GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ## 🔥 Difficulty
 
