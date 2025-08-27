@@ -31,4 +31,12 @@ Your personal portfolio project to practice building clean HTML, CSS, and JS lay
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+## 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
