@@ -1,4 +1,4 @@
-# 📁 Simple Portfolio
+# 📂 Simple Portfolio
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1705487747/Challenges/cf3rlsqoovxlf7uajpva.jpg)
 
